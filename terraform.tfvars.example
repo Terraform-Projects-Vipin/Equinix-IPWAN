@@ -1,0 +1,5 @@
+emails               = "<put your email ID"
+project_id            = "<put your equinix project ID>"
+ecx_client_id = "<put your equinix client ID>"
+ecx_client_secret = "<put your equinix client secret ID>"
+IPWAN_Name = "<Equinix_IPWAN_Global>" 
